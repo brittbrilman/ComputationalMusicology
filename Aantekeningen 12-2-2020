@@ -1,0 +1,24 @@
+What is a spectogram?
+  Fourier method: zie tekst
+    Het is niet perfect, je verliest een hoop details, especially at the base notes because the transform gets super sloppy at the base. 
+    *Short-time fourier transform* seems very easy but it is really hard to optimize your
+    transform. 
+FUNFACT: human hearing: 20Hz tot 20.000 Hz. 
+    nyquist frequency: CD = 22.050 Hz. 
+    default music is analysed at 44.100Hz. A little bit of extra sampeling creates a buffer (not hearable) for your music production and 
+    analysis (expample: is you slow down a song you keep super high quality). 
+  *Discrete short-time fourier transform* (DFT). FFT = fast fourier transform. Its basicly the same thing. DCT = discrete cosine transform,
+  (in this course) it is also just the same. 
+  - fourier transform (linear scale)
+  - constant-Q transform (log scale). This is nice because when you move up one octave you actually double the Hertz, so that is also 
+    logaritmic. 
+  - Mel and Bark scales. Based on ear and hearing. 
+  
+What is a good analytical design?
+  A good visualisation of data can be better then tables! Now what makes a good data visualisation?
+  - show causality, machanism, explanation of differences in comparison and systematic structure. 
+  - dont be afraid to use words, numbers, images and diagrams to make your visualisation more readable! Make your point as clearly visible
+    as possible. 
+  - Make sure you have a story to tell! Content is key! What is your point, and how will you get is across? Dont just show work. 
+  
+How does one make visualisations with R? 
