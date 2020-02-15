@@ -7,6 +7,4 @@ On this webpage I will build my data visualisations for the Computational Musico
 - (follow-up current idea) Try to find out if there is an increase in latin music in western culture
 - (follow_up current idea) Generally try to find out if the difference in summer/winter tracks is something new or always present.
 - Find out how big societal changes have an influence on hit-charts:  
-        - watersnoodramp 1953
-        - financial crisis 2007-08
-        - 9/1
+        - watersnoodramp 1953; financial crisis 2007-08; 9/11. 
