@@ -26,4 +26,14 @@ X|Mean | Standard Deviation
 **Tempo**|126|28.2
 
 
-Winter playlist: top40.nl > 2013 > week 1 - week 5. 56 songs alltogether. 
+**Winter playlist**: top40.nl > 2013 > week 1 - week 5. 56 songs alltogether. 
+
+| |Mean | Standard Deviation
+---|---|---
+**Energy**|0.684|0.195
+**Danceability**|0.618|0.120
+**Loudness**|-5.94|2.32
+**Speechiness**|0.0589|0.0514
+**acousticness**|0.208|0.259
+**valence**|0.506|0.232
+**Tempo**|118|25.0
