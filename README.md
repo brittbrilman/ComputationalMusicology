@@ -11,8 +11,9 @@ On this webpage I will build my data visualisations for the Computational Musico
   - watersnoodramp 1953; financial crisis 2007-08; 9/11. 
 
 ## Data
-Summer playlist: top40.nl > 2013 > week 22 - week 26. 55 songs alltogether. 
+Summer playlist: top40.nl > 2013 > week 22 - week 26. 55 songs alltogether.
 
 *side note: Gentleman - psy is not conluded in the playlist for it is nog made available on spotify.* 
+
 
 Winter playlist: top40.nl > 2013 > week 1 - week 5. 56 songs alltogether. 
