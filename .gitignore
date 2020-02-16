@@ -3,7 +3,7 @@
 .Rapp.history
 
 # Session Data files
-ComputationalMusicology
+.RData
 
 # User-specific files
 .Ruserdata
