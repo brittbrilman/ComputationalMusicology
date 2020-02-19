@@ -1,0 +1,21 @@
+Spectogram, chroma.
+
+Visualise music pitch in a spiral because higher = higher but also, octave is represented by the same angle on the spiral. 
+
+Chromagram is in theory easier to read and understand than an spectogram. 
+
+A cent is a 'maatstaaf' in pitch. Normal people can hear a pitch difference of about 25c, trained musicians can get that down to 10c. 
+
+Er zijn verschillende chroma analyses:
+- manhattan (sum of colom / the sum)
+- Euclidean (root mean square)
+- Chebyshev (maximum) 
+
+IK ZIT ZO NIET OP TE LETTEN LEES GEWOON MAAR DIE FOKKING TEKSTEN WANT DIT SLAAT NERGENS OP. 
+
+
+HULP COMMANDO's voor het vervormen van data:
+- pivot_wide
+- pivot_longer
+- gather
+- spread
