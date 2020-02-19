@@ -1,5 +1,5 @@
 ---
-title: "index.Rad"
+title: "index.Rmd"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns

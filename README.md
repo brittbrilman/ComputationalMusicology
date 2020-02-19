@@ -38,3 +38,7 @@ On this webpage I will build my data visualisations for the Computational Musico
 **acousticness**|0.208|0.259
 **valence**|0.506|0.232
 **Tempo**|118|25.0
+
+![SummerPlot](Summer_plot.png)
+![Winterplot](Winter_plot.png)
+
